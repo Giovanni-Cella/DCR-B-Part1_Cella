@@ -1,0 +1,200 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4055-E5E1
+
+ Directory of C:\Users\giova\Desktop\DCR-B
+
+19/05/2024  11:14    <DIR>          .
+19/05/2024  11:14    <DIR>          ..
+08/04/2024  09:54             1,114 converter.py
+03/05/2024  11:13    <DIR>          DCR-B
+19/05/2024  11:14                 0 list.txt
+08/05/2024  11:31    <DIR>          Queries
+19/05/2024  11:01             1,129 Query.py
+19/05/2024  10:46             4,098 table_creation.py
+               4 File(s)          6,341 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B
+
+03/05/2024  11:13    <DIR>          .
+03/05/2024  11:13    <DIR>          ..
+08/02/2024  17:37           645,589 ACA-2022-02-01.xlsx
+23/03/2024  11:03           220,627 Pesce_tigre_golia.html
+03/05/2024  11:12    <DIR>          River_fish
+19/05/2024  11:13    <DIR>          Sea_fish
+21/03/2024  11:19           297,824 Siluro.html
+23/03/2024  10:41           262,179 Sogliola.html
+               4 File(s)      1,426,219 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\River_fish
+
+03/05/2024  11:12    <DIR>          .
+03/05/2024  11:12    <DIR>          ..
+21/03/2024  11:36           187,445 Bream.html
+03/05/2024  11:13    <DIR>          European
+03/05/2024  11:12    <DIR>          Exotic
+24/04/2024  11:27         5,689,814 Module 2 - D.Lgs. 81-08 and the subjects of prevention and protection.pdf
+21/03/2024  14:28           676,391 Sawfish.html
+21/03/2024  11:28           496,453 Sturgeon.html
+               4 File(s)      7,050,103 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\River_fish\European
+
+03/05/2024  11:13    <DIR>          .
+03/05/2024  11:13    <DIR>          ..
+21/03/2024  11:19           204,479 Aspio.html
+03/05/2024  11:12    <DIR>          Big_european
+24/04/2024  11:42         3,757,260 Module 3 - Risk assessment and general safety measures.pdf
+03/05/2024  11:13    <DIR>          Small_european
+               2 File(s)      3,961,739 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\River_fish\European\Big_european
+
+03/05/2024  11:12    <DIR>          .
+03/05/2024  11:12    <DIR>          ..
+25/05/2022  11:10        10,191,398 2.Reazioni-enzimatiche.pdf
+08/02/2024  17:41           678,519 ACA-2021-01-28-solution-1 (1).xlsx
+21/03/2024  11:34           407,665 Carp.html
+21/03/2024  11:23           354,095 Pike.html
+               4 File(s)     11,631,677 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\River_fish\European\Small_european
+
+03/05/2024  11:13    <DIR>          .
+03/05/2024  11:13    <DIR>          ..
+21/03/2024  11:18           227,339 Barbo.html
+21/03/2024  11:10           204,415 Cavedano.html
+24/04/2024  11:53         2,147,603 Module 4 - Supervisory, control and assistance bodies.pdf
+               3 File(s)      2,579,357 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\River_fish\Exotic
+
+03/05/2024  11:12    <DIR>          .
+03/05/2024  11:12    <DIR>          ..
+21/03/2024  11:37           361,098 Alligator_gar.html
+21/03/2024  11:35           369,405 Asian_carp.html
+23/03/2024  11:43    <DIR>          Big_exotic
+24/04/2024  11:59         1,358,534 Module 5.1 - Safeguarding mothers.pdf
+24/04/2024  12:08         3,583,094 Module 5.2 - Management of accidents, injuries and first aid .pdf
+24/04/2024  12:13           992,761 Module 5.3 - Safety signposting.pdf
+23/03/2024  11:44    <DIR>          Small_exotic
+               5 File(s)      6,664,892 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\River_fish\Exotic\Big_exotic
+
+23/03/2024  11:43    <DIR>          .
+23/03/2024  11:43    <DIR>          ..
+21/03/2024  11:33           314,860 Arapaima.html
+21/03/2024  11:29           235,393 Blue_catfish.html
+23/03/2024  10:52           272,368 Dorado.html
+               3 File(s)        822,621 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\River_fish\Exotic\Small_exotic
+
+23/03/2024  11:44    <DIR>          .
+23/03/2024  11:44    <DIR>          ..
+21/03/2024  11:26           196,030 Black_bass.html
+21/03/2024  11:34           309,246 Piranha.html
+21/03/2024  11:26           248,651 Sunfish.html
+               3 File(s)        753,927 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\Sea_fish
+
+19/05/2024  11:13    <DIR>          .
+19/05/2024  11:13    <DIR>          ..
+03/05/2024  11:14    <DIR>          Mediterranean
+24/04/2024  12:52         2,734,734 Module 6.2 - Management of public, works and supply contracts.pdf
+23/03/2024  11:01           396,695 Nurse_shark.html
+19/05/2024  11:12           609,798 Squalo_tigre.html
+03/05/2024  11:14    <DIR>          Tropical
+21/03/2024  14:24           568,645 Tuna.html
+               4 File(s)      4,309,872 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\Sea_fish\Mediterranean
+
+03/05/2024  11:14    <DIR>          .
+03/05/2024  11:14    <DIR>          ..
+03/05/2024  11:14    <DIR>          Big_mediterranean
+23/03/2024  11:02           243,099 Gattuccio.html
+24/04/2024  12:35         3,972,793 Module 5.5 - Electrical hazard.pdf
+23/03/2024  10:35           270,273 Orata.html
+23/03/2024  10:58           236,816 Sciarrrano.html
+21/03/2024  14:26           261,326 Seabass.html
+03/05/2024  11:14    <DIR>          Small_mediterranean
+23/03/2024  10:38           224,086 Squid.html
+               6 File(s)      5,208,393 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\Sea_fish\Mediterranean\Big_mediterranean
+
+03/05/2024  11:14    <DIR>          .
+03/05/2024  11:14    <DIR>          ..
+09/11/2023  10:46           246,303 afraid_of_ruins.mp3
+20/03/2024  18:51            14,140 B+ Tree exercise 1.xlsx
+23/03/2024  10:31           335,550 Bluefish.html
+21/03/2024  14:26           508,432 Cod.html
+23/03/2024  10:33           233,434 Common_dentex.html
+23/03/2024  10:39           375,394 Halibut.html
+23/03/2024  10:36           219,964 Ombrina.html
+23/03/2024  10:40           208,712 Rombo.html
+               8 File(s)      2,141,929 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\Sea_fish\Mediterranean\Small_mediterranean
+
+03/05/2024  11:14    <DIR>          .
+03/05/2024  11:14    <DIR>          ..
+23/03/2024  10:42           216,522 Corvina.html
+18/04/2024  09:19            16,061 DCR-B Part 1 - project specification.docx
+23/03/2024  10:35           272,917 Gallinella.html
+23/03/2024  10:32           262,994 Garfish.html
+21/03/2024  14:25           556,609 Mackerel.html
+24/04/2024  12:24         3,860,657 Module 5.4 - Fire prevention and management of emergencies .pdf
+23/03/2024  10:34           273,391 Pagello.html
+23/03/2024  10:42           267,971 Platessa.html
+21/03/2024  14:27           223,893 Scorfano.html
+23/03/2024  10:37           246,894 Seppia.html
+              10 File(s)      6,197,909 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\Sea_fish\Tropical
+
+03/05/2024  11:14    <DIR>          .
+03/05/2024  11:14    <DIR>          ..
+23/03/2024  11:49    <DIR>          Big_tropical
+21/03/2024  14:30           302,319 Cernia.html
+07/01/2024  16:41             3,072 KnnMarianna.m
+13/04/2024  17:50           206,007 Linear Regression (IRIS).ipynb
+24/04/2024  12:40         1,622,517 Module 5.6 - Asbestos risk.pdf
+24/04/2024  12:44         2,807,408 Module 6.1 -  Organizational welfare and work-related stress.pdf
+23/03/2024  11:50    <DIR>          Small_tropical
+23/03/2024  10:27           480,615 Swordfish.html
+23/03/2024  11:02           482,977 Whale_shark.html
+               7 File(s)      5,904,915 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\Sea_fish\Tropical\Big_tropical
+
+23/03/2024  11:49    <DIR>          .
+23/03/2024  11:49    <DIR>          ..
+23/03/2024  10:56           234,919 Barracuda.html
+23/03/2024  11:00           393,817 Bull_shark.html
+23/03/2024  10:52           353,105 Dorado_salt.html
+23/03/2024  11:00           774,766 Great_white_shark.html
+23/03/2024  10:54           260,849 Pesce_napoleone.html
+               5 File(s)      2,017,456 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\DCR-B\Sea_fish\Tropical\Small_tropical
+
+23/03/2024  11:50    <DIR>          .
+23/03/2024  11:50    <DIR>          ..
+23/03/2024  10:55           343,155 Clownfish.html
+               1 File(s)        343,155 bytes
+
+ Directory of C:\Users\giova\Desktop\DCR-B\Queries
+
+08/05/2024  11:31    <DIR>          .
+08/05/2024  11:31    <DIR>          ..
+18/04/2024  09:48                64 index_content.sql
+08/05/2024  11:31               283 query_complete.sql
+03/05/2024  11:03                88 query_occurrences.sql
+               3 File(s)            435 bytes
+
+     Total Files Listed:
+              76 File(s)     61,020,940 bytes
+              50 Dir(s)  11,975,675,904 bytes free
